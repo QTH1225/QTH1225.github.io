@@ -10,11 +10,11 @@ title: Awards
 
 - June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>
   Only 21 undergraduates are selected around the world
-- Nov 2024：**Xiaomi  First-class Undergraduate Scholarship** ($700)
+- Nov 2024：**Xiaomi  First-class Undergraduate Scholarship** ($700)<br>
   Only 1 senior was selected in School of Mechanics & Civil Engineering
-- Nov 2024：**First-class Scholarship of CUMT** ($600)
+- Nov 2024：**First-class Scholarship of CUMT** ($600)<br>
   Only 3 undergraduates were selected  in Department of Civil Engineering
-- Nov 2023：**Pingmei First-class Scholarship** ($400)
+- Nov 2023：**Pingmei First-class Scholarship** ($400)<br>
   Only 5 junior was selected in School of Mechanics & Civil Engineering
 - Second Prize Scholarship of CUMT ($300, **Twice**)<br>
 
