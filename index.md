@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **I am actively seeking a PhD position for 2028 Fall admission. If you have any information, please contact me!**
 
-- [Green Materials and Building Industrialization Theory and Research Team](https://cace.cumt.edu.cn/info/1479/31679.htm)
+- [Green Materials and Building Industrialization Theory and Research](https://cace.cumt.edu.cn/info/1479/31679.htm)
 - Concrete Structure Reinforcement and Repair
 - New concrete materials (FRP, TRC, UHPC, etc.)
 - Applied Machine Learning
