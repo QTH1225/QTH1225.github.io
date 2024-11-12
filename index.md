@@ -29,6 +29,6 @@ My current research focuses on durability of reinforced concrete in coastal area
 
 ## News and Updates
 
-- **March 2024：**Very pleased to pursue my Master's degree in Structural Engineering at China University of Mining and Technology!
+- **Sept 2024：**Very pleased to pursue my Master's degree in Structural Engineering at China University of Mining and Technology!
 
 <br>
