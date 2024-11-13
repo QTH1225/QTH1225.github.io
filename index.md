@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tianhao Qin (秦天浩)**.<br>
 
-I am an undergraduate student in the School of Mechanics & Civil Engineering at the China University of Mining and Technology, advised by [Prof Shiping Yin ](https://cace.cumt.edu.cn/info/1201/15167.htm), within [Green Materials and Building Industrialization Theory and Research Team](https://cace.cumt.edu.cn/info/1479/31679.htm). Before joining this team, I have conducted research on China's carbon peak and carbon neutrality goals, as well as machine learning, with [AP Yaning Qiao]([‪Yaning Qiao‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=gxVZszAAAAAJ&hl=en&oi=ao)).<br>
+I am an undergraduate student in the School of Mechanics & Civil Engineering at the China University of Mining and Technology (CUMT), advised by [Prof Shiping Yin ](https://cace.cumt.edu.cn/info/1201/15167.htm), within [Green Materials and Building Industrialization Theory and Research Team](https://cace.cumt.edu.cn/info/1479/31679.htm). Before joining this team, I have conducted research on China's carbon peak and carbon neutrality goals, as well as machine learning, with [AP Yaning Qiao]([‪Yaning Qiao‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=gxVZszAAAAAJ&hl=en&oi=ao)).<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - 02210632@cumt.edu.cn
 

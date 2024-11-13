@@ -9,7 +9,6 @@ title: Blogs
 ### 2024
 
 - [保研](https://qintianhao.cn/blogs/undergraduate/)
-- [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
 
 <br>
 
