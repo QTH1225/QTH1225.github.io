@@ -2,12 +2,12 @@ title: Tianhao Qin
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://qth1225.github.io/
+url: http://qintianhao.cn/
 
 # Owner/author information
 owner:
   name: Tianhao Qin
-  avatar: hanlin.jpg
+  avatar: tianhao.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 02210632@cumt.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf 
@@ -80,6 +80,7 @@ kramdown:
 # disqus settings:
 disqus:
   shortname: lancecai
+  #shortname should be rewritten
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
