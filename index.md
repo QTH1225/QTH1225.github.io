@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://qth1225.github.io/qintianhao.jpg" class="floatpic">
+<img src="http://qth1225.github.io/qintianhao.jpg" class="floatpic">
 
 Here is **Tianhao Qin (秦天浩)**.<br>
 
@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-**I am actively seeking a PhD position for 2028 Fall admission. If you have any information, please contact me!**
+**<font color="#990000">I am looking forward to learning from scholars in different fields around the world. If you are interested in my research, please contact me!</font>**
 
 - [Green Materials and Building Industrialization Theory and Research](https://cace.cumt.edu.cn/info/1479/31679.htm)
 - Concrete Structure Reinforcement and Repair
