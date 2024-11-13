@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/undergraduate/index.html
-title: 保研后的生活
+title: undergraduate
 ---
 
 ## 关于保研
