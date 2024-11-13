@@ -79,7 +79,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: haohao-1
   #shortname should be rewritten
 
 include: [".htaccess"]
