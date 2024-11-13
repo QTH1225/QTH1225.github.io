@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/undergraduat/index.html
+permalink: /blogs/undergraduate/index.html
 title: Lance的AAAI参会实录
 ---
 
-111
+关于保研
