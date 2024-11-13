@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /blogs/undergraduate/index.html
-title: Lance的AAAI参会实录
+title: 保研后的生活
 ---
 
-关于保研
+## 关于保研
+
