@@ -20,7 +20,7 @@ title: Awards
 ## Competitions
 
 - Jun 2025: Excellent Undergraduate Graduation Project at CUMT<br>
-  Only 7 personal project was selected in School of Mechanics & Civil Engineering
+  Only 7 individual projects  were selected in School of Mechanics and Civil Engineering were selected
 - Aug 2024:  Third Prize in CSEE Cup 2024 National University Students Electrical Math Modeling Competition <br>
 - Jun 2024:  Second Prize in May Day Mathematical Contest in Modeling <br>
 - May 2024:  Second Prize & Third Prize in Jiangsu Province Energy Conservation and Emission Reduction Technology Competition<br>
