@@ -4,10 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 11th Nov 2024
+> Update: 19th July 2025
 
 ## Scholarships
 
+- Nov 2024：**TongZhu Scholarship**(About $400)<br>
 - Nov 2024：**Xiaomi  First-class Scholarship** ($700)<br>
   Only 2 senior was selected in School of Mechanics & Civil Engineering
 - Nov 2024：**First-class Scholarship of CUMT** ($600)<br>
@@ -18,6 +19,8 @@ title: Awards
 
 ## Competitions
 
+- Jun 2025: Excellent Undergraduate Graduation Project at CUMT<br>
+  Only 7 personal project was selected in School of Mechanics & Civil Engineering
 - Aug 2024:  Third Prize in CSEE Cup 2024 National University Students Electrical Math Modeling Competition <br>
 - Jun 2024:  Second Prize in May Day Mathematical Contest in Modeling <br>
 - May 2024:  Second Prize & Third Prize in Jiangsu Province Energy Conservation and Emission Reduction Technology Competition<br>
