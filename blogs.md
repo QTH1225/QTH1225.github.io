@@ -6,7 +6,7 @@ title: Blogs
 
 ## Chinese Blogs 中文博客
 
-### 2024
+### 2025
 
 - [保研](https://qintianhao.cn/blogs/undergraduate/)
 
