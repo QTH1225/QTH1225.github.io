@@ -11,11 +11,11 @@ title: Awards
 - Nov 2024：**TongZhu Scholarship** (￥2000)<br>
 - Nov 2024：**Xiaomi  First-class Scholarship** (￥5000)<br>
   Only **2** senior was selected in School of Mechanics & Civil Engineering
-- Nov 2024：**First-class Scholarship of CUMT** (￥5000)<br>
+- Nov 2024：**First-class Scholarship of CUMT** (￥4000)<br>
   Only **3** undergraduates were selected  in Department of Civil Engineering
 - Nov 2023：**Pingmei First-class Scholarship** (￥3000)<br>
   Only **5** junior was selected in School of Mechanics & Civil Engineering
-- Second Prize Scholarship of CUMT (￥2000, **Twice**)<br>
+- Nov 2022,2023 **Second Prize Scholarship of CUMT** (￥2000, **Twice**)<br>
 
 ## Competitions
 

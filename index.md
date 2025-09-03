@@ -20,10 +20,10 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - [Green Materials and Building Industrialization Theory and Research](https://cace.cumt.edu.cn/info/1479/31679.htm)
 - Concrete Structure Reinforcement and Repair
-- New concrete materials (FRP, TRC, UHPC, etc.)
+- New Concrete Materials (FRP, TRC, UHPC, etc.)
 - Applied Machine Learning
 
-My current research focuses on durability of reinforced concrete in coastal area and reinforcement measures. I am interested in the application of  **New Building Materials**(such as FRP, UHPC) and **Intelligent Algorithm** (such as machine learning and neural networks) in concrete structures. In short, the new green building materials have a positive impact on everyone's life. I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on durability of reinforced concrete in coastal area and reinforcement measures. I am interested in the application of  **New Building Materials**(such as FRP, TRC) and **Intelligent Algorithm** (such as machine learning and neural networks) in concrete structures. In short, the new green building materials have a positive impact on everyone's life. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
